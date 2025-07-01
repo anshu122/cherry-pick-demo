@@ -1,2 +1,3 @@
 Initial line
 Bug fix line
+Another feature
